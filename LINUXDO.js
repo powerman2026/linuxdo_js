@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name        LINUXDO Read&heart pro plus max ultra
-// @namespace   rongjiale_linuxdo_ReadBoost
+// @namespace   422431474_linuxdo_ReadBoost
 // @match       https://linux.do/*
 // @grant       GM_setValue
 // @grant       GM_getValue
 // @grant       GM_registerMenuCommand
 // @version     1.2
-// @author      rongjiale
-// @description LINUXDO ReadBoost是一个LINUXDO刷取已读帖量脚本，理论上支持所有Discourse论坛（维护者：rongjiale）
+// @author      422431474
+// @description LINUXDO ReadBoost是一个LINUXDO刷取已读帖量脚本，理论上支持所有Discourse论坛（维护者：422431474）
 // ==/UserScript==
 
 (function () {
