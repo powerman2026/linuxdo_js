@@ -83,8 +83,8 @@
 
 ## 仓库地址
 
-- GitHub: https://github.com/422431474/linuxdo_js
+- GitHub: https://github.com/powerman2026/linuxdo_js
 
 ## 维护者
 
-- GitHub: `422431474`
+- GitHub: `powerman2026`
